@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/game-image.png" alt="Tic Tac Toe" />
+  <img src="game-image.png" alt="Tic Tac Toe" />
 
 
   <div>
